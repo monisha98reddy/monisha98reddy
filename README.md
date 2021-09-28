@@ -5,5 +5,7 @@
 - 🌱 Actively looking for internships in the field of Data Science and Machine Learning
 - 💬 Reach me - monisha81reddy@gmail.com</b>
 
+![image](https://user-images.githubusercontent.com/63378154/135091149-52146e8d-1494-47fd-b68c-0fec6a20dab1.png)
 
-![image](https://user-images.githubusercontent.com/63378154/135090454-3ea843f6-140c-454d-b55f-c5f7850cc982.png)
+
+
