@@ -6,7 +6,7 @@
 - 💬 Reach me at monisha81reddy@gmail.com
 
 
-🛠️ # <bold>SKILLS</bold>
+## SKILLS 🛠️ 
 ### DATA ANALYSIS
 ### DATA VISUALIZATION
 ### MACHINE LEARNING
